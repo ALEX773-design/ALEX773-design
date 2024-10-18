@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ALEX773-design
-- 👀 I’m interested in ...ethical hacking
-- 🌱 I’m currently learning ...html and stuff nothing too big
-- 💞️ I’m looking to collaborate on ...non
-- 📫 How to reach me ...erm....not sure facebook? discord?? yeah dunno
+-  Hi, I’m @ALEX773-design
+-  I’m interested in computers
+-  I’m currently learning coding in general, Database design and management, full-stack development
+-  How to reach me? well, my instagram is al__13247, I may also be available on discord but don't have a proton mail yet.
 
 <!---
 ALEX773-design/ALEX773-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
