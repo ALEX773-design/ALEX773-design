@@ -1,6 +1,9 @@
 # Hi there, I'm C! 👋
 
-[![GitHub](https://img.shields.io/github/followers/ALEX773-design?label=Github&style=for-the-badge)](https://github.com/ALEX773-design)
+[![GitHub](https://img.shields.io/github/followers/ALEX773-design?label=Github&style=social)](https://github.com/ALEX773-design)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Stars](https://img.shields.io/github/stars/ALEX773-design?style=social)
+![Open Issues](https://img.shields.io/github/issues/ALEX773-design/ALEX773-design.svg)
 
 I'm a passionate developer with a love for coding, exploring new technologies, and building projects. Here you’ll find some of the exciting work I’ve been involved with, from personal projects to collaborative efforts!
 
@@ -27,13 +30,13 @@ I'm a passionate developer with a love for coding, exploring new technologies, a
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=dracula)
 
 #### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
 
 #### Current Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=dracula)
 
 ---
 
