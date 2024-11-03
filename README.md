@@ -46,7 +46,7 @@ Here are some of my favorite projects:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandan-dasgupta" target="_blank">
+  <a href="https://www.linkedin.com/in/chandan-dasgupta-50b84a336?" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/al__13247" target="_blank">
