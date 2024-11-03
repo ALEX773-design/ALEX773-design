@@ -27,10 +27,13 @@ I'm a passionate developer with a love for coding, exploring new technologies, a
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=radical&hide=issues&count_private=true" alt="ALEX773-design's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX773-design&theme=radical" alt="ALEX773-design's GitHub Streak" />
-</div>
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=radical)
+
+#### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=radical)
+
+#### Current Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=radical)
 
 ---
 
