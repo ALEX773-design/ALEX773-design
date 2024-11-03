@@ -5,16 +5,17 @@
 ![Stars](https://img.shields.io/github/stars/ALEX773-design?style=social)
 ![Open Issues](https://img.shields.io/github/issues/ALEX773-design/ALEX773-design.svg)
 
-I'm a passionate developer with a love for coding, exploring new technologies, and building projects. Here you’ll find some of the exciting work I’ve been involved with, from personal projects to collaborative efforts!
+👨‍💻 Enthusiastic Developer | Fuelled by a love for coding, tech exploration, and hands-on projects! Here, you’ll find a collection of my journey—from solo builds to exciting collaborations, each project pushing me to learn and innovate. Passionate about crafting clean, efficient code and diving into new technologies, I’m always eager to tackle the next challenge. Let’s connect, collaborate, and create something amazing together!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: a few projects.
-- 🌱 I’m learning: HTML, Css, Mysql
-- 💬 Ask me about: Web Development, Machine Learning.
-- 📫 How to reach me: email me or send me a dm on instagram.
+🔭 Currently working on: A range of exciting projects that fuel my creativity and problem-solving skills.
+🌱 Learning: Diving deep into HTML, CSS, and MySQL as I strengthen my web development foundation.
+💬 Ask me about: All things Web Development and Machine Learning—I’m always up for a tech chat or brainstorming session!
+🚀 Future goals: Eager to explore advanced frameworks, build impactful projects, and contribute to open-source!
+📫 How to reach me: Drop me an email or DM me on Instagram—I’d love to connect and hear from you!
 
 ---
 
