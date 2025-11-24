@@ -54,7 +54,8 @@ Passionate about crafting clean, efficient code and diving into new technologies
 Here are some of my favorite projects:
 
 - **A site for a school** (https://github.com/ALEX773-design/sunshine) - _My first project which is just a simple site made using html and css_
-- 
+- **Html program to show how basic html works**
+
 
 ---
 
