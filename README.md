@@ -55,6 +55,7 @@ Here are some of my favorite projects:
 
 - **A site for a school** (https://github.com/ALEX773-design/sunshine) - _My first project which is just a simple site made using html and css_
 - **Html program to show how basic html works**
+(https://alex773-design.github.io/Simple-website-builder/) - _A simple project to create a basic html site and save it_
 
 
 ---
@@ -68,7 +69,7 @@ Here are some of my favorite projects:
   <a href="https://instagram.com/al__13247" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:aw819213@gmail.com">
+  <a href="mailto:chandandasgupta023@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </p>
