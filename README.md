@@ -7,7 +7,7 @@
 
 👨‍💻 Enthusiastic Developer | Fuelled by a love for coding, tech exploration, and hands-on projects! 
 
-Here, you’ll find a collection of my journey—from solo builds to exciting collaborations, each project pushing me to learn and innovate. 
+Here, you’ll find a collection of my journey => from solo builds to exciting collaborations, each project pushing me to learn and innovate. 
 
 Passionate about crafting clean, efficient code and diving into new technologies, I’m always eager to tackle the next challenge. Let’s connect, collaborate, and create something amazing together!
 
@@ -33,8 +33,7 @@ Passionate about crafting clean, efficient code and diving into new technologies
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" alt="SQL">
-</div>
-
+  <img src="https://img.shields.io/badge/-PYTHON-4479A1?logo=Python&logoColor=white&style=for-the-badge" alt="PYTHON"
 ---
 
 ## 📈 GitHub Stats
