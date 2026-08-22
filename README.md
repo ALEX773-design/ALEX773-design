@@ -1,85 +1,74 @@
-# Hi there, I'm C! 👋
+👋 Hi, I'm C!
+I’m a developer who enjoys experimenting, building, and figuring things out one project at a time. My GitHub is basically a collection of things I’ve tried, things I’m learning, and things I’m slowly getting better at.
 
-[![GitHub](https://img.shields.io/github/followers/ALEX773-design?label=Github&style=social)](https://github.com/ALEX773-design)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Stars](https://img.shields.io/github/stars/ALEX773-design?style=social)
-![Open Issues](https://img.shields.io/github/issues/ALEX773-design/ALEX773-design.svg)
+🚀 About Me
+🔭 What I’m working on:  
+A handful of small projects that help me practice and improve my web development skills.
 
-👨‍💻 Enthusiastic Developer | Fuelled by a love for coding, tech exploration, and hands-on projects! 
+🌱 Currently learning:  
+Strengthening my basics in HTML, CSS, and MySQL, and slowly branching out into other areas.
 
-Here, you’ll find a collection of my journey => from solo builds to exciting collaborations, each project pushing me to learn and innovate. 
+💬 Things I like talking about:  
+Web development, beginner‑friendly machine learning concepts, or anything tech‑related.
 
-Passionate about crafting clean, efficient code and diving into new technologies, I’m always eager to tackle the next challenge. Let’s connect, collaborate, and create something amazing together!
+🎯 Goals:  
+Get comfortable with modern frameworks, build more polished projects, and eventually contribute to open‑source.
 
----
+📫 Reach me:  
+Email or Instagram — I’m always open to chatting or connecting.
 
-## 🚀 About Me
-
-🔭 Currently working on: A range of exciting projects that fuel my creativity and problem-solving skills.
-
-🌱 Learning: Diving deep into HTML, CSS, and MySQL as I strengthen my web development foundation.
-
-💬 Ask me about: All things Web Development and Machine Learning—I’m always up for a tech chat or brainstorming session!
-
-🚀 Future goals: Eager to explore advanced frameworks, build impactful projects, and contribute to open-source!
-
-📫 How to reach me: Drop me an email or DM me on Instagram—I’d love to connect and hear from you!
-
----
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/-PYTHON-4479A1?logo=Python&logoColor=white&style=for-the-badge" alt="PYTHON"
----
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%2FML-000000?logo=github&logoColor=white&style=for-the-badge" />
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=dracula)
+</div>
+</div>
 
-#### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=dracula
 
-#### Current Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=dracula)
+Top Languages
+https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula
 
----
+Current Streak
+https://streak-stats.demolab.com/?user=ALEX773-design&theme=dracula
 
-## 🔥 Top Projects
+🔥 Projects
+A couple of things I’ve built so far:
 
-Here are some of my favorite projects:
+School Website  
+Simple HTML/CSS site — my first proper project.
+https://github.com/ALEX773-design/sunshine
 
-- **A site for a school** (https://github.com/ALEX773-design/sunshine) - _My first project which is just a simple site made using html and css_
-- **Html program to show how basic html works**
-(https://alex773-design.github.io/Simple-website-builder/) - _A simple project to create a basic html site and save it_
+Basic HTML Builder  
+A small tool that creates a basic HTML page and lets you save it.
+https://alex773-design.github.io/Simple-website-builder/
 
+More coming as I keep learning and experimenting.
 
----
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandan-dasgupta-50b84a336?" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/al__13247" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:chandandasgupta023@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
+<a href="https://www.linkedin.com/in/chandan-dasgupta-50b84a336?" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+<a href="https://instagram.com/al__13.46" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
+<a href="mailto:chandandasgupta023@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
 </p>
 
----
+💡 Highlights
+Always learning something new
 
-## 💡 Highlights
+Enjoy building things, even small ones
 
-- **📚 Lifelong Learner**: Constantly expanding my knowledge and skills in the tech world.
-- **💻 Code Enthusiast**: Dedicated to clean, efficient, and impactful code.
-
----
-
-Thank you for stopping by! 
+Trying to write cleaner, better code over time
