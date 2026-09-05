@@ -1,4 +1,4 @@
-👋 Hi, I'm C!
+👋 Hi, I'm Chandan!
 I’m a developer who enjoys experimenting, building, and figuring things out one project at a time. My GitHub is basically a collection of things I’ve tried, things I’m learning, and things I’m slowly getting better at.
 
 🚀 About Me
