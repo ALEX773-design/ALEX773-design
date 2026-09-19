@@ -36,9 +36,9 @@ Email or Instagram — I'm always open to chatting or connecting.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-pi-olive-48.vercel.app/)/api?username=ALEX773-design&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-pi-olive-48.vercel.app/api?username=ALEX773-design&show_icons=true&theme=dracula)
 
-![Top Languages]([https://github-readme-stats.vercel.app](https://github-readme-stats-pi-olive-48.vercel.app/)/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats-pi-olive-48.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
 
 ![Current Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=dracula)
 
