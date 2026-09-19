@@ -36,9 +36,9 @@ Email or Instagram — I'm always open to chatting or connecting.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALEX773-design&show_icons=true&theme=dracula)
+![GitHub Stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-pi-olive-48.vercel.app/)/api?username=ALEX773-design&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
+![Top Languages]([https://github-readme-stats.vercel.app](https://github-readme-stats-pi-olive-48.vercel.app/)/api/top-langs/?username=ALEX773-design&layout=compact&theme=dracula)
 
 ![Current Streak](https://streak-stats.demolab.com/?user=ALEX773-design&theme=dracula)
 
@@ -49,11 +49,11 @@ A few things I've built so far:
 **[National Library](https://github.com/ALEX773-design/complete-library-sys)**
 A multi-page library web app — browse, search, and borrow books, track reading history and favorites, and manage your account. Flask + SQLite backend with a full admin panel: user management, book management, site-wide notifications, maintenance mode, and more.
 
-**[School Website](https://github.com/ALEX773-design/sunshine)**
-Simple HTML/CSS site — my first proper project.
-
 **[Basic HTML Builder](https://alex773-design.github.io/Simple-website-builder/)**
 A small tool that creates a basic HTML page and lets you save it.
+
+**[School Website](https://github.com/ALEX773-design/sunshine)**
+Simple HTML/CSS site — my first proper project.
 
 More coming as I keep learning and experimenting.
 
@@ -63,7 +63,7 @@ More coming as I keep learning and experimenting.
 <a href="https://www.linkedin.com/in/chandan-dasgupta-50b84a336?" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://instagram.com/al__13.46" target="_blank">
+<a href="https://instagram.com/ca__13.46" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
 </a>
 <a href="mailto:chandandasgupta023@gmail.com">
