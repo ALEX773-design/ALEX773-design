@@ -42,7 +42,7 @@ Email or Instagram — I'm always open to chatting or connecting.
 
 A few things I've built so far:
 
-**[National Library](https://github.com/ALEX773-design/complete-library-sys)**
+**[National Library](https://github.com/ALEX773-design/complete-library-sys.)**
 A multi-page library web app — browse, search, and borrow books, track reading history and favorites, and manage your account. Flask + SQLite backend with a full admin panel: user management, book management, site-wide notifications, maintenance mode, and more.
 
 **[Basic HTML Builder](https://alex773-design.github.io/Simple-website-builder/)**
